@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Hi%20There!%20I%27m%20denis&fontSize=50&fontAlignY=35&animation=twinkling" />
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%20There!%20I%27m%20denis&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Scientist;Student+at+the+Kazan+Federal+University;Student+at+the+Sberbank+21+School;)](https://git.io/typing-svg) -->

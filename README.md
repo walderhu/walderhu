@@ -1,7 +1,7 @@
 <div align="center">
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%20There!%20I%27m%20denis&width=800&height=120)](https://github.com/Akshay090/svg-banners)
+<!--  [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Hi%20There!%20I%27m%20denis&width=800&height=120)](https://github.com/Akshay090/svg-banners)  -->
 
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=30&pause=1000&color=6994CDEE&center=true&vCenter=true&width=600&height=70&lines=Machine+Learning+Scientist;Student+at+the+Kazan+Federal+University;Student+at+the+Sberbank+21+School;)](https://git.io/typing-svg) -->
@@ -14,9 +14,10 @@
   <!-- <a href="https://vk.com/lipatov163">
     <img src="https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=vk&logoColor=white&border_color=0D1117"/>
   </a> -->
-  <a href="https://github.com/walderhu">
+  <!--  <a href="https://github.com/walderhu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&border_color=0D1117"/>
-  </a>
+  </a>  -->
+  
   <a href="https://www.linkedin.com/in/denis-lipatov-67366b384/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_color=0D1117"/>
   </a>
